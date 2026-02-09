@@ -14,6 +14,7 @@
 直接运行即可：
 ```bash
 python dict.py
+```
 
 # 端口扫描器（Port Scanner）
 
@@ -57,6 +58,7 @@ python dict.py
 if __name__ == "__main__":
     ports = scan_ports('127.0.0.1', 1, 1000)
     print(ports)
+```
 
 # 密码字典生成器（dict.py）
 
